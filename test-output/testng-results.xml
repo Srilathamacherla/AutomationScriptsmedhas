@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-05T18:10:00 IST" name="Suite" finished-at="2023-01-05T18:11:05 IST" duration-ms="64283">
+    <groups>
+    </groups>
+    <test started-at="2023-01-05T18:10:00 IST" name="Test" finished-at="2023-01-05T18:11:05 IST" duration-ms="64283">
+      <class name="Pages.TestAdministrationPage">
+        <test-method is-config="true" signature="setupbrowser()[pri:0, instance:Pages.TestAdministrationPage@1c742ed4]" started-at="2023-01-05T18:10:00 IST" name="setupbrowser" finished-at="2023-01-05T18:10:01 IST" duration-ms="1187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupbrowser -->
+        <test-method is-config="true" signature="applicationurl()[pri:0, instance:Pages.TestAdministrationPage@1c742ed4]" started-at="2023-01-05T18:10:01 IST" name="applicationurl" finished-at="2023-01-05T18:10:02 IST" duration-ms="862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationurl -->
+        <test-method signature="loginPage()[pri:1, instance:Pages.TestAdministrationPage@1c742ed4]" started-at="2023-01-05T18:10:02 IST" name="loginPage" finished-at="2023-01-05T18:10:23 IST" duration-ms="20419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method is-config="true" signature="applicationurl()[pri:0, instance:Pages.TestAdministrationPage@1c742ed4]" started-at="2023-01-05T18:10:23 IST" name="applicationurl" finished-at="2023-01-05T18:10:23 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationurl -->
+        <test-method signature="administrationpage()[pri:2, instance:Pages.TestAdministrationPage@1c742ed4]" started-at="2023-01-05T18:10:23 IST" name="administrationpage" finished-at="2023-01-05T18:11:04 IST" duration-ms="41475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- administrationpage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Pages.TestAdministrationPage@1c742ed4]" started-at="2023-01-05T18:11:04 IST" name="teardown" finished-at="2023-01-05T18:11:05 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Pages.TestAdministrationPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
